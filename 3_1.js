@@ -64,9 +64,9 @@ document.write( '			</div>\n' );
 
 document.write( '		<div class=\"frame\">\n' );
 document.write( '				<div class=\"frame__title-wrap\">\n' );
-document.write( '					<h1 class=\"frame__title\"> SIddharth Favs Models</h1>\n' );
+document.write( '					<h1 class=\"frame__title\"> Saurav Nanda Models</h1>\n' );
 document.write( '					<div class=\"frame__links\">\n' );
-document.write( '						<a href=\"\"> Main Site</a>\n' );
+document.write( '						<a href=\"\"> Capturing the Essence</a>\n' );
 document.write( '						<a href=\"\">  Site 2</a>\n' );
 document.write( '					</div>\n' );
 document.write( '					<div class=\"frame__mode\" role=\"radiogroup\">\n' );
